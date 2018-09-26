@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <div class="col-md-4">
+        <nav class="nav flex-column">
+            <button type="button" id="view" class="btn btn-outline-light">View</button>
+            <button type="button" id="add" class="btn btn-outline-light">Add</button>
+            <button type="button" id="verify" class="btn btn-outline-light">Verify</button>
+            <button type="button" id="update" class="btn btn-outline-light">Update</button>
+            <button type="button" id="delete" class="btn btn-outline-light">Delete</button>
+            
+        
+        </nav>
+    </div>
+    <div class="col-md-8">
+        <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+            <div class="card-header">Employee Directory</div>
+                <div class="card-body content">
+                    <h5 class="card-title">Secondary card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

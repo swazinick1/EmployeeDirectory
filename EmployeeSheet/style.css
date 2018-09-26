@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+
+
+body {
+    background-color: whitesmoke;
+
+}
+
+#sidebar {
+  position:relative;
+  width:200px;
+  height:200%;
+  background:#151719;
+
+}
+
+#sidebar nav flex-column{
+    color:rgba(230,230,230,.9);
+    list-style:none;
+    padding: 15px 10px;
+    border-bottom:1px solid rbga(100,100,100,.3);
+    
+    
+
+}
+
+.container-fluid.sidebarbtn{
+
+    width:1000px;
+    position: relative;
+    top: -200px;
+    left: 700px;
+}
+
+header {
+    background-color: black;
+    width: auto;
+    height:100px;
+    color: white;
+}
+
+.card-header {
+    border: 2px solid grey;
+    
+}
+
+.card-body.content  {
+
+    position: relative;
+    width:1000px;
+
+
+}
+
